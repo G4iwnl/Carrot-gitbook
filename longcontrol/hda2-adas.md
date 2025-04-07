@@ -17,7 +17,11 @@ HDA2 차량은 HDA1 차량과 다르게 실내 (adas 모듈)에서 작업합니�
 * 기존 콤마 하네스의 Camera쪽은 Bypass
 * adas의 ecan만 하네스의 bus2에 연결
 
-<figure><img src="broken-reference" alt=""><figcaption><p>출처 : 로웰님(Discord)</p></figcaption></figure>
+![](<../.gitbook/assets/image (34) (1).png>)![](<../.gitbook/assets/image (35).png>)
+
+* 사진 출처 : 포르티시모님, 로웰님 ( Discord )
+
+
 
 제작이 힘들다면..?  [잭by잭 완성품 구매(제이엠테크엔)](https://smartstore.naver.com/jmtechn/products/11248346315)
 
