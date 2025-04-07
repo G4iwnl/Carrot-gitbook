@@ -8,6 +8,7 @@
 * [HDA1 차량의 배선 개조](longcontrol/hda1.md)
 * [HDA2 차량의 배선 개조 (26핀 하네스)](longcontrol/hda2-26.md)
 * [HDA2 차량의 배선 개조 (18핀 하네스)](longcontrol/hda2-18.md)
+* [HDA2 차량의 배선 개조 (ADAS)](longcontrol/hda2-adas.md)
 
 ## 당근파일럿 기초설정 <a href="#basic-settings" id="basic-settings"></a>
 

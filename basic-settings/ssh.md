@@ -1,11 +1,13 @@
 # SSH 키 생성 & 등록
 
+## <mark style="background-color:blue;">UPDATE</mark>
+
+* 트흐님의 업데이트를 통해, 당근맨 69 버전부터 당근맨에서 바로 ssh키를 생성 & 등록할 수 있습니다.
+
 ## GIT 설치
 
 * git 설치 ( [설치링크 ](https://git-scm.com/downloads))
-* 위 링크에 접속하여,  Windows를 클릭하여 git을 설치합니다.
-
-
+* 위 링크에 접속하여, Windows를 클릭하여 git을 설치합니다.
 
 ## SSH 키 생성
 
@@ -14,7 +16,14 @@
 
 C:\id\_rsa 는 C:\ 드라이브의 위치에 id\_rsa 라는 이름의 키를 생성하는 것을 의미합니다.
 
-상황에 따라 알맞게  위치를 입력합니다.
+상황에 따라 알맞게 위치를 입력합니다.
+
+## <mark style="background-color:red;">여기서 에러 발생 시</mark>
+
+* cmd를 관리자 권한으로 실행했는지 다시 한번 확인 해 주세요.
+* 또는, 위치를 C:\id\_rsa와 같은 높은 권한을 요구하는 폴더가 아닌 Downloads 폴더와 같은 곳으로 바꿔보세요.
+
+
 
 ```
 Generating public/private rsa key pair.
@@ -75,7 +84,7 @@ The key's randomart image is:
 * github id 입력
   *   github id 확인방법
 
-      * [https://github.com/](https://github.com/)  접속
+      * [https://github.com/](https://github.com/) 접속
       * 우측 최상단 프로필 사진 클릭
       * 닉네임이 표시됨.
 
@@ -97,4 +106,3 @@ The key's randomart image is:
 *   개인키 클릭 후 id\_rsa파일 선택
 
     <figure><img src="../.gitbook/assets/image (10).png" alt="" width="188"><figcaption></figcaption></figure>
-
