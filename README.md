@@ -31,7 +31,7 @@ carrot2-xxxx에 해당하는 부분은, 브랜치 상황에 따라 다르므로 
 
 <figure><img src=".gitbook/assets/image (19).png" alt="" width="190"><figcaption><p>Branch 목록</p></figcaption></figure>
 
-* 예를들어, v7-wip3-wd40 브랜치 설치를 원할 경우,  **smiskol.com/fork/ajouatom/v7-wip3-wd40** 이용.
+* 예를들어, v8-wip4-x11 브랜치 설치를 원할 경우,  **smiskol.com/fork/ajouatom/v8-wip4-x11** 이용.
 * 설치 완료 후, 영어로 클릭하라고 시키는거 따라서 클릭.
 
 ## **당근파일럿의 유용한 기능**
