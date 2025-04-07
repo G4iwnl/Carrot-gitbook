@@ -31,12 +31,17 @@ carrot2-xxxx에 해당하는 부분은, 브랜치 상황에 따라 다르므로 
 
 <figure><img src=".gitbook/assets/image (19).png" alt="" width="190"><figcaption><p>Branch 목록</p></figcaption></figure>
 
-* 예를들어, v8-wip4-x11 브랜치 설치를 원할 경우,  **smiskol.com/fork/ajouatom/v8-wip4-x11** 이용.
+* 예를들어, v8-wip4-x11 브랜치 설치를 원할 경우, **smiskol.com/fork/ajouatom/v8-wip4-x11** 이용.
+
+## <mark style="background-color:blue;">2025.04.07 수정</mark>
+
+* 설치주소는 **smiskol.com/fork/ajouatom/v8-wip4-x11 대신, 간단하게 ajouatom/v8-wip4-x11 만 입력해도 설치됩니다.**
+
+
+
 * 설치 완료 후, 영어로 클릭하라고 시키는거 따라서 클릭.
 
 ## **당근파일럿의 유용한 기능**
-
-
 
 **Radar Tracks: HKG cars only (레이더트랙)**
 
@@ -54,11 +59,11 @@ carrot2-xxxx에 해당하는 부분은, 브랜치 상황에 따라 다르므로 
     * 주행성능이 뛰어나고 SCC에 비해 안정감이 좋음.
     * 주행튜닝을 통해 입맛에 맞게 주행감을 조절 가능.
     * 콤마 비젼과 레이더를 함께 사용하여 정지차량에 대하여 반응.
-    * 신호등에 반응하여 출발 정지가 가능.&#x20;
+    * 신호등에 반응하여 출발 정지가 가능.
     * 자유로운 속도조절 가능.
     * 순정의 안전관련기능(AEB[^1], FCW[^2]등)을 모두 활용가능.
 
-배선개조 방법  -        [HDA1](longcontrol/hda1.md)         [HDA2](longcontrol/hda2-26.md)
+배선개조 방법 - [HDA1](longcontrol/hda1.md) [HDA2](longcontrol/hda2-26.md)
 
 **연비 모드**
 
@@ -72,8 +77,6 @@ carrot2-xxxx에 해당하는 부분은, 브랜치 상황에 따라 다르므로 
 
 <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-
-
 **APM: CarrotMan for Android (안드로이드 당근맨 앱)**
 
 * 안드로이드 폰이나 태블릿에서 사용할 수 있는 당근파일럿 전용 앱 입니다.
@@ -86,31 +89,19 @@ carrot2-xxxx에 해당하는 부분은, 브랜치 상황에 따라 다르므로 
 * 당근맨과 당근파일럿 전용 네비게이션 앱을 사용해 콤마에 실시간으로 경로, 과속카메라, 과속방지턱 정보를 전송해 크루즈 속도 조절에 사용합니다.
 * 경로가 전송되는 상태이면, 콤마 화면의 좌측 하단에 **APN** 표시가 됩니다.
 
-
-
 ## **당근네비 & 당근맨 앱 다운로드 방법**
 
 1. [당근파일럿2 **디스코드**](https://discord.gg/DKpgnpgYQm)**에 가입**합니다.
-2. **닉네임을 변경**합니다.  ( 닉네임 / 차량정보 / 순정여부 )
+2. **닉네임을 변경**합니다. ( 닉네임 / 차량정보 / 순정여부 )
 
-차량정보예시 : Sorento MQ4 HEV  / Sorento PE HEV
+차량정보예시 : Sorento MQ4 HEV / Sorento PE HEV
 
 순정여부예시 : 롱컨 / 비롱컨 / 비전롱컨
 
 3. **당근마스터님을 멘션** 후, 권한을 요청합니다.
 4. 디스코드 채널목록에 **당근-앱 이라는 채널**에 들어가 앱을 다운로드 합니다.
 
-
-
 [**당근네비 & 당근맨 설치 + 권한주기 방법**](basic-settings/carrotapp.md#undefined)
-
-
-
-
-
-
-
-
 
 [^1]: Autonomous Emergency Braking : 자동긴급제동
 
