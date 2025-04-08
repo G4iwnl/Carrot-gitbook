@@ -12,14 +12,21 @@ or
 
 HDA2 차량은 HDA1 차량과 다르게 실내 (adas 모듈)에서 작업합니다.
 
+
+
+## <mark style="background-color:red;">기존 HDA2 롱컨과 차이점</mark>
+
+* 기존 HDA2 배선개조는 adas에서 2가닥의 e-can 신호만 콤마로 연결
+* adas에서 하는 HDA2 배선 개조는 하네스 박스를 adas 모듈의 위치로 옮기고, c to c 케이블만 콤마로 연결
+
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
 ## 배선 제작 기본 원리
 
 * 기존 콤마 하네스의 Camera쪽은 Bypass
 * adas의 ecan만 하네스의 bus2에 연결
 
-![](<../.gitbook/assets/image (34) (1).png>)![](<../.gitbook/assets/image (35).png>)
-
-* 사진 출처 : 포르티시모님, 로웰님 ( Discord )
+<figure><img src="../.gitbook/assets/image (34) (1).png" alt=""><figcaption><p>출처 : 포르티시모님 ( Discord )</p></figcaption></figure>
 
 
 
