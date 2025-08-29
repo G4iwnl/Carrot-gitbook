@@ -2,20 +2,6 @@
 icon: carrot
 cover: .gitbook/assets/스크린샷_2024-12-18_오후_1.38.42-removebg-preview-2.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 당근파일럿 가이드
@@ -25,17 +11,17 @@ layout:
 **Comma 3X 기준**
 
 * Custom Software 클릭
-* Enter URL 창이 나오면, **smiskol.com/fork/ajouatom/carrot2-xxxx** 입력.
+* Enter URL 창이 나오면, **smiskol.com/fork/ajouatom/tr16-e** 입력.
 
 carrot2-xxxx에 해당하는 부분은, 브랜치 상황에 따라 다르므로 [당근마스터님의 깃허브](https://github.com/ajouatom/openpilot) 참고
 
 <figure><img src=".gitbook/assets/image (19).png" alt="" width="190"><figcaption><p>Branch 목록</p></figcaption></figure>
 
-* 예를들어, v8-wip4-x11 브랜치 설치를 원할 경우, **smiskol.com/fork/ajouatom/v8-wip4-x11** 이용.
+* 예를들어, tr16-e 브랜치 설치를 원할 경우, **smiskol.com/fork/ajouatom/tr16-e** 이용.
 
 ## <mark style="background-color:blue;">2025.04.07 수정</mark>
 
-* 설치주소는 **smiskol.com/fork/ajouatom/v8-wip4-x11 대신, 간단하게 ajouatom/v8-wip4-x11 만 입력해도 설치됩니다.**
+* 설치주소는 **smiskol.com/fork/ajouatom/tr16-e 대신, 간단하게 ajouatom/tr16-e 만 입력해도 설치됩니다.**
 
 
 
