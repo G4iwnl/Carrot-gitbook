@@ -57,7 +57,6 @@
 ## <mark style="background-color:red;">주의점</mark>
 
 * 레이더 트랙 롱컨의 경우에는, 순정의 안전관련기능(AEB[^1], FCW[^2]등)을 사용할 수 없습니다.
-* HDA2 차량은 레이더트랙을 사용할 수 없습니다.
 
 [^1]: Autonomous Emergency Braking : 자동긴급제동
 
