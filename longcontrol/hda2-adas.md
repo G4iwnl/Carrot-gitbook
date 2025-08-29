@@ -14,6 +14,13 @@ HDA2 차량은 HDA1 차량과 다르게 실내 (adas 모듈)에서 작업합니�
 
 
 
+## CANFD 차량 레이더트랙
+
+* 2025.07 이후 CANFD차량도 레이더 트랙 사용이 가능합니다.
+  * A(A1)-CAN을 BUS1에 접속하여 사용 가능합니다.
+
+
+
 ## <mark style="background-color:red;">기존 HDA2 롱컨과 차이점</mark>
 
 * 기존 HDA2 배선개조는 adas에서 2가닥의 e-can 신호만 콤마로 연결
@@ -44,6 +51,8 @@ HDA2 차량은 HDA1 차량과 다르게 실내 (adas 모듈)에서 작업합니�
 * carrot -> can HYUNDAI : CAMERA SCC 켜기
 * carrot -> 시작 -> Read Cruise Speed from PCM 0으로 설정
 * carrot -> 시작 -> canfd hda2 켜기
+* Enable RadarTracks : 1
+* 화면 -> 레이더 정보 표시 : 2
 
 ## 참고 - 작동원리
 

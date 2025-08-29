@@ -39,6 +39,7 @@
 * [레이더트랙](functions/radartrack.md)
 * [경로 기반 속도 제어](functions/routespeed.md)
 * [DM 끄기](functions/dm.md)
+* [공짜롱컨](functions/freelongcon.md)
 
 ## Developers
 
